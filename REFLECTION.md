@@ -1,5 +1,5 @@
 # Reflection - Contact Book Manager
-**Student:** Sulav Kharel (SM20252552)
+Sulav Kharel (SM20252552)
 
 **Program overview.** My program is a menu-driven Contact Book. It loads contacts from `data/contacts.csv`, lets the user add, view, search (by name, phone or email), update, delete and filter by group, detect duplicate phone numbers, and print a summary report (total, contacts per group, contacts without an email). Everything is saved back to the CSV on exit. Every prompt loops until the input is valid, so bad input does not crash it.
 
@@ -14,6 +14,7 @@
 - Add a graphical interface.
 - Use GitHub Actions to run the tests on every commit.
 
-**Personal reflection.** [Write in your own words: what was hardest, what you learned, what you would do differently.]
+**Personal reflection.**
+The hardest part in this project for me was to setup git and github for the first time. After trying multiple times and searching it online I finally found out how to do it. Running the program made me realize how input validation matters.
 
-**Acknowledgement of assistance.** [Edit to match what you actually did.] I used Claude (an AI assistant by Anthropic) to generate the first version of the code structure, tests and this report draft. I read, ran and tested the code, and I can explain how each module works.
+**Acknowledgement of assistance.**  I used Claude (an AI assistant by Anthropic) to brainstorm ideas.
