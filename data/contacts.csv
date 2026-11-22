@@ -1,0 +1,11 @@
+id,name,phone,email,group
+1,Alice Nguyen,0412 345 678,alice.nguyen@example.com,Friends
+2,Bob Smith,0423 456 789,bob.smith@example.com,Work
+3,Carol Jones,0434 567 890,,Family
+4,David Lee,0445 678 901,david.lee@example.com,Work
+5,Emma Brown,0456 789 012,emma.brown@example.com,Family
+6,Frank Taylor,0467 890 123,,Friends
+7,Grace Kim,0478 901 234,grace.kim@example.com,Friends
+8,Henry Wilson,0489 012 345,henry.wilson@example.com,Work
+9,Isla Martin,0412345678,isla.martin@example.com,Friends
+10,Jack Davis,+61 490 123 456,,Family
